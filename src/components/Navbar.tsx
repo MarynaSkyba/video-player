@@ -27,7 +27,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div>
-          <Link href="/" passHref>
+          <Link href="https://github.com/MarynaSkyba/video-player" passHref>
             <Button>Go to Github source</Button>
           </Link>
         </div>
