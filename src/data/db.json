@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "The Sea",
+    "description": "A breathtaking view of the ocean, capturing the serenity and power of the sea.",
+    "url": "/videos/video1.mp4",
+    "img": "/img/1.png",
+    "watchCount": 18,
+    "likeCount": 81
+  },
+  {
+    "id": "2",
+    "title": "The Desert",
+    "description": "A vast, endless desert landscape with golden sand dunes stretching to the horizon.",
+    "url": "/videos/video2.mp4",
+    "img": "/img/2.png",
+    "watchCount": 98,
+    "likeCount": 26
+  },
+  {
+    "id": "3",
+    "title": "The Snow",
+    "description": "A peaceful winter wonderland, where everything is covered in a thick layer of snow.",
+    "url": "/videos/video3.mp4",
+    "img": "/img/3.png",
+    "watchCount": 23,
+    "likeCount": 41
+  },
+  {
+    "id": "4",
+    "title": "The Mountains",
+    "description": "Majestic mountain ranges, towering high above, surrounded by lush green forests.",
+    "url": "/videos/video4.mp4",
+    "img": "/img/4.png",
+    "watchCount": 6,
+    "likeCount": 54
+  }
+]
